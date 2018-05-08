@@ -1,0 +1,29 @@
+{
+  "name": "xt_class_2018",
+  "version": "1.0.5",
+  "description": "",
+  "main": "buzzwordbingo.js",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "jsdoc": "^3.5.5",
+    "user": "^0.0.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "js": "babel buzzwordbingo.js --out-file transpiled/buzzwordbingo.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Matze739/xt_class_2018.git"
+  },
+  "author": "Marcel wagner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Matze739/xt_class_2018/issues"
+  },
+  "homepage": "https://github.com/Matze739/xt_class_2018#readme"
+}
